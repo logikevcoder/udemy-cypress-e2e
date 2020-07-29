@@ -1,0 +1,24 @@
+{
+  "name": "udemy-cypress-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.11.0",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logikevcoder/udemy-cypress-e2e.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logikevcoder/udemy-cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/logikevcoder/udemy-cypress-e2e#readme"
+}
